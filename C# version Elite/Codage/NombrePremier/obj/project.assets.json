@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codage\\NombrePremier\\NombrePremier.csproj",
+      "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
       "projectName": "NombrePremier",
-      "projectPath": "D:\\Codage\\NombrePremier\\NombrePremier.csproj",
+      "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
       "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-      "outputPath": "D:\\Codage\\NombrePremier\\obj\\",
+      "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",

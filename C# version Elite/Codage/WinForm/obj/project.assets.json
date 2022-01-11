@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codage\\WinForm\\WinForm.csproj",
+      "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
       "projectName": "WinForm",
-      "projectPath": "D:\\Codage\\WinForm\\WinForm.csproj",
+      "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
       "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-      "outputPath": "D:\\Codage\\WinForm\\obj\\",
+      "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",

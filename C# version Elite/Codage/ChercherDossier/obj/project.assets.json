@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codage\\ChercherDossier\\ChercherDossier.csproj",
+      "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
       "projectName": "ChercherDossier",
-      "projectPath": "D:\\Codage\\ChercherDossier\\ChercherDossier.csproj",
+      "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
       "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-      "outputPath": "D:\\Codage\\ChercherDossier\\obj\\",
+      "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",

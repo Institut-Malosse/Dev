@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codage\\Calculatrice\\Calculatrice.csproj": {}
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\Calculatrice\\Calculatrice.csproj": {}
   },
   "projects": {
-    "D:\\Codage\\Calculatrice\\Calculatrice.csproj": {
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\Calculatrice\\Calculatrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codage\\Calculatrice\\Calculatrice.csproj",
+        "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\Calculatrice\\Calculatrice.csproj",
         "projectName": "Calculatrice",
-        "projectPath": "D:\\Codage\\Calculatrice\\Calculatrice.csproj",
+        "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\Calculatrice\\Calculatrice.csproj",
         "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-        "outputPath": "D:\\Codage\\Calculatrice\\obj\\",
+        "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\Calculatrice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codage\\MoyenneNote\\MoyenneNote.csproj": {}
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\MoyenneNote\\MoyenneNote.csproj": {}
   },
   "projects": {
-    "D:\\Codage\\MoyenneNote\\MoyenneNote.csproj": {
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\MoyenneNote\\MoyenneNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codage\\MoyenneNote\\MoyenneNote.csproj",
+        "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\MoyenneNote\\MoyenneNote.csproj",
         "projectName": "MoyenneNote",
-        "projectPath": "D:\\Codage\\MoyenneNote\\MoyenneNote.csproj",
+        "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\MoyenneNote\\MoyenneNote.csproj",
         "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-        "outputPath": "D:\\Codage\\MoyenneNote\\obj\\",
+        "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\MoyenneNote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -67,6 +67,7 @@
             // 
             // BtnNombreFichiers
             // 
+            this.BtnNombreFichiers.Enabled = false;
             this.BtnNombreFichiers.Location = new System.Drawing.Point(335, 113);
             this.BtnNombreFichiers.Name = "BtnNombreFichiers";
             this.BtnNombreFichiers.Size = new System.Drawing.Size(191, 41);
@@ -84,6 +85,7 @@
             this.BtnListeFichierAZ.TabIndex = 4;
             this.BtnListeFichierAZ.Text = "Liste des fichiers (triés de A à Z)";
             this.BtnListeFichierAZ.UseVisualStyleBackColor = true;
+            this.BtnListeFichierAZ.Click += new System.EventHandler(this.BtnListeFichierAZ_Click);
             // 
             // BtnListeFichiersZA
             // 
@@ -94,6 +96,7 @@
             this.BtnListeFichiersZA.TabIndex = 5;
             this.BtnListeFichiersZA.Text = "Liste des fichiers (triés de Z à A)";
             this.BtnListeFichiersZA.UseVisualStyleBackColor = true;
+            this.BtnListeFichiersZA.Click += new System.EventHandler(this.BtnListeFichiersZA_Click);
             // 
             // BtnNombreFichierExt
             // 
@@ -104,6 +107,7 @@
             this.BtnNombreFichierExt.TabIndex = 6;
             this.BtnNombreFichierExt.Text = "Compter le nombre de fichiers avec cette extension : ";
             this.BtnNombreFichierExt.UseVisualStyleBackColor = true;
+            this.BtnNombreFichierExt.Click += new System.EventHandler(this.BtnNombreFichierExt_Click);
             // 
             // TxtExtension
             // 

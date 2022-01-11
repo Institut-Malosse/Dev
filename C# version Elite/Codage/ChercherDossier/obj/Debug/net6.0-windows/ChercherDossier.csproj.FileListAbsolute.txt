@@ -15,3 +15,20 @@ D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ref\ChercherDossier.dll
 D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.pdb
 D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.genruntimeconfig.cache
 D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.AssemblyReference.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.exe
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.deps.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.runtimeconfig.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ref\ChercherDossier.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.AssemblyReference.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.FrmPrincipal.resources
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.GenerateResource.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.AssemblyInfoInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.AssemblyInfo.cs
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.CoreCompileInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ref\ChercherDossier.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.genruntimeconfig.cache

@@ -27,7 +27,7 @@ namespace Deci
                             diviseurs.Add(i); // Ajout dans l'Array des diviseurs
                         }
                     }
-                    if (diviseurs.Count <= 2) // Si les diviseurs sont uniquement 1, alors le nombre est primaire
+                    if (diviseurs.Count <= 2) // Si les diviseurs sont uniquement 2 ou moins, alors le nombre est primaire
                     {
                         radioButton1.Checked = true; // Changement de l'état du bouton de radio indiquant si le nombre est primaire.
                     }

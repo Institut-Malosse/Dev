@@ -1,0 +1,17 @@
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\SuiteConway.exe
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\SuiteConway.deps.json
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\SuiteConway.runtimeconfig.json
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\SuiteConway.dll
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\ref\SuiteConway.dll
+D:\Codage\SuiteConway\bin\Debug\net6.0-windows\SuiteConway.pdb
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.csproj.AssemblyReference.cache
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.csproj.GenerateResource.cache
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.AssemblyInfoInputs.cache
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.AssemblyInfo.cs
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.csproj.CoreCompileInputs.cache
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.dll
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\ref\SuiteConway.dll
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.pdb
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.genruntimeconfig.cache
+D:\Codage\SuiteConway\obj\Debug\net6.0-windows\SuiteConway.FrmPrincipal.resources

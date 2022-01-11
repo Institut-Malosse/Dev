@@ -1,0 +1,17 @@
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\NombrePremier.exe
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\NombrePremier.deps.json
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\NombrePremier.runtimeconfig.json
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\NombrePremier.dll
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\ref\NombrePremier.dll
+D:\Codage\NombrePremier\bin\Debug\net6.0-windows\NombrePremier.pdb
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.csproj.AssemblyReference.cache
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.FrmPrincipal.resources
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.csproj.GenerateResource.cache
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.AssemblyInfoInputs.cache
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.AssemblyInfo.cs
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.csproj.CoreCompileInputs.cache
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.dll
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\ref\NombrePremier.dll
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.pdb
+D:\Codage\NombrePremier\obj\Debug\net6.0-windows\NombrePremier.genruntimeconfig.cache

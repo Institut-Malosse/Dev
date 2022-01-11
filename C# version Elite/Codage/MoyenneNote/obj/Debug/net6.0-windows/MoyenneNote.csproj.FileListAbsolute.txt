@@ -1,0 +1,17 @@
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.csproj.AssemblyReference.cache
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.FrmPrincipal.resources
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.csproj.GenerateResource.cache
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.AssemblyInfoInputs.cache
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.AssemblyInfo.cs
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.csproj.CoreCompileInputs.cache
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\MoyenneNote.exe
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\MoyenneNote.deps.json
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\MoyenneNote.runtimeconfig.json
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\MoyenneNote.dll
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\ref\MoyenneNote.dll
+D:\Codage\MoyenneNote\bin\Debug\net6.0-windows\MoyenneNote.pdb
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.dll
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\ref\MoyenneNote.dll
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.pdb
+D:\Codage\MoyenneNote\obj\Debug\net6.0-windows\MoyenneNote.genruntimeconfig.cache

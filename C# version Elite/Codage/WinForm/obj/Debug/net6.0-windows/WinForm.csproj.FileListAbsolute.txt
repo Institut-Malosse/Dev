@@ -1,0 +1,17 @@
+D:\Codage\WinForm\bin\Debug\net6.0-windows\WinForm.exe
+D:\Codage\WinForm\bin\Debug\net6.0-windows\WinForm.deps.json
+D:\Codage\WinForm\bin\Debug\net6.0-windows\WinForm.runtimeconfig.json
+D:\Codage\WinForm\bin\Debug\net6.0-windows\WinForm.dll
+D:\Codage\WinForm\bin\Debug\net6.0-windows\ref\WinForm.dll
+D:\Codage\WinForm\bin\Debug\net6.0-windows\WinForm.pdb
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.csproj.AssemblyReference.cache
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.FrmPrincipal.resources
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.csproj.GenerateResource.cache
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.AssemblyInfoInputs.cache
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.AssemblyInfo.cs
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.csproj.CoreCompileInputs.cache
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.dll
+D:\Codage\WinForm\obj\Debug\net6.0-windows\ref\WinForm.dll
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.pdb
+D:\Codage\WinForm\obj\Debug\net6.0-windows\WinForm.genruntimeconfig.cache

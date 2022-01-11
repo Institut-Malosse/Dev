@@ -1,0 +1,17 @@
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.exe
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.deps.json
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.runtimeconfig.json
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.dll
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ref\ChercherDossier.dll
+D:\Codage\ChercherDossier\bin\Debug\net6.0-windows\ChercherDossier.pdb
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.FrmPrincipal.resources
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.GenerateResource.cache
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.AssemblyInfoInputs.cache
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.AssemblyInfo.cs
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.CoreCompileInputs.cache
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.dll
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ref\ChercherDossier.dll
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.pdb
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.genruntimeconfig.cache
+D:\Codage\ChercherDossier\obj\Debug\net6.0-windows\ChercherDossier.csproj.AssemblyReference.cache

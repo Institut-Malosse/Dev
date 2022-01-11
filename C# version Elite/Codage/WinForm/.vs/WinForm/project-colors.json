@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e193a9fa-8449-41f0-b10d-eca6c1b818d0": {
+      "ProjectGuid": "e193a9fa-8449-41f0-b10d-eca6c1b818d0",
+      "DisplayName": "WinForm",
+      "ColorIndex": 0
+    },
+    "468233c6-fe56-4a46-89cc-431aae9455c5": {
+      "ProjectGuid": "468233c6-fe56-4a46-89cc-431aae9455c5",
+      "DisplayName": "Calculatrice",
+      "ColorIndex": 1
+    },
+    "aa5f7c9f-a62c-4da9-a594-ba0750256596": {
+      "ProjectGuid": "aa5f7c9f-a62c-4da9-a594-ba0750256596",
+      "DisplayName": "ChercheDossier",
+      "ColorIndex": 2
+    },
+    "f67ba9ed-7306-4a40-a350-32f0acd8b53c": {
+      "ProjectGuid": "f67ba9ed-7306-4a40-a350-32f0acd8b53c",
+      "DisplayName": "ChercherDossier",
+      "ColorIndex": 3
+    },
+    "bf3c5b80-370a-4b24-9fc3-ebfbb2c96955": {
+      "ProjectGuid": "bf3c5b80-370a-4b24-9fc3-ebfbb2c96955",
+      "DisplayName": "NombrePremier",
+      "ColorIndex": 4
+    },
+    "438c6ad5-551b-4129-8afa-20a3469efeef": {
+      "ProjectGuid": "438c6ad5-551b-4129-8afa-20a3469efeef",
+      "DisplayName": "SuiteConway",
+      "ColorIndex": 5
+    },
+    "5a1c75ce-c882-4c6f-869c-7e6e1d5e8136": {
+      "ProjectGuid": "5a1c75ce-c882-4c6f-869c-7e6e1d5e8136",
+      "DisplayName": "MoyenneNote",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

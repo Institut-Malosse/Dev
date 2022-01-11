@@ -1,0 +1,17 @@
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\Moyenne.exe
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\Moyenne.deps.json
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\Moyenne.runtimeconfig.json
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\Moyenne.dll
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\ref\Moyenne.dll
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\bin\Debug\net6.0-windows\Moyenne.pdb
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.csproj.AssemblyReference.cache
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.Form1.resources
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.csproj.GenerateResource.cache
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.AssemblyInfoInputs.cache
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.AssemblyInfo.cs
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.csproj.CoreCompileInputs.cache
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.dll
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\ref\Moyenne.dll
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.pdb
+C:\Users\krolo\Documents\Git\Dev\C#\Moyenne\Moyenne\obj\Debug\net6.0-windows\Moyenne.genruntimeconfig.cache

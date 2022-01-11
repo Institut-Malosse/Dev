@@ -35,7 +35,12 @@
       "ProjectGuid": "5a1c75ce-c882-4c6f-869c-7e6e1d5e8136",
       "DisplayName": "MoyenneNote",
       "ColorIndex": 6
+    },
+    "3d5716cd-8a92-4d8c-ac5d-1fc376a19dfd": {
+      "ProjectGuid": "3d5716cd-8a92-4d8c-ac5d-1fc376a19dfd",
+      "DisplayName": "MiniExo",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

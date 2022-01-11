@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForm", "WinForm.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculatrice", "..\Calculatrice\Calculatrice.csproj", "{468233C6-FE56-4A46-89CC-431AAE9455C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChercherDossier", "..\ChercherDossier\ChercherDossier.csproj", "{F67BA9ED-7306-4A40-A350-32F0ACD8B53C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChercherDossier", "..\ChercherDossier\ChercherDossier.csproj", "{F67BA9ED-7306-4A40-A350-32F0ACD8B53C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NombrePremier", "..\NombrePremier\NombrePremier.csproj", "{BF3C5B80-370A-4B24-9FC3-EBFBB2C96955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NombrePremier", "..\NombrePremier\NombrePremier.csproj", "{BF3C5B80-370A-4B24-9FC3-EBFBB2C96955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuiteConway", "..\SuiteConway\SuiteConway.csproj", "{438C6AD5-551B-4129-8AFA-20A3469EFEEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuiteConway", "..\SuiteConway\SuiteConway.csproj", "{438C6AD5-551B-4129-8AFA-20A3469EFEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoyenneNote", "..\MoyenneNote\MoyenneNote.csproj", "{5A1C75CE-C882-4C6F-869C-7E6E1D5E8136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoyenneNote", "..\MoyenneNote\MoyenneNote.csproj", "{5A1C75CE-C882-4C6F-869C-7E6E1D5E8136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniExo", "..\MiniExo\MiniExo.csproj", "{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5A1C75CE-C882-4C6F-869C-7E6E1D5E8136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A1C75CE-C882-4C6F-869C-7E6E1D5E8136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A1C75CE-C882-4C6F-869C-7E6E1D5E8136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

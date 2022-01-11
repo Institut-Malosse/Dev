@@ -15,7 +15,7 @@ namespace Deci
                 int nbPremier = Int32.Parse(nombreATester);
                 if (nbPremier <= 1) // S'il est positif et supérieur ou égal à 1
                 {
-                    MessageBox.Show("Le nombre saisi n'est pas un nombre premier !"); // Affichage d'une erreur de saisie
+                    MessageBox.Show("Le nombre saisi n'est pas un nombre positif ou supérieur à 1 !"); // Affichage d'une erreur de saisie
                 }
                 else
                 {

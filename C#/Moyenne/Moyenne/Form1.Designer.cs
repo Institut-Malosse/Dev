@@ -83,6 +83,7 @@
             // 
             // Clear2
             // 
+            this.Clear2.Enabled = false;
             this.Clear2.Location = new System.Drawing.Point(6, 195);
             this.Clear2.Name = "Clear2";
             this.Clear2.Size = new System.Drawing.Size(171, 114);
@@ -92,6 +93,7 @@
             // 
             // Moyenne2
             // 
+            this.Moyenne2.Enabled = false;
             this.Moyenne2.Location = new System.Drawing.Point(6, 161);
             this.Moyenne2.Name = "Moyenne2";
             this.Moyenne2.Size = new System.Drawing.Size(171, 28);
@@ -164,6 +166,7 @@
             // 
             // Clear1
             // 
+            this.Clear1.Enabled = false;
             this.Clear1.Location = new System.Drawing.Point(6, 195);
             this.Clear1.Name = "Clear1";
             this.Clear1.Size = new System.Drawing.Size(174, 114);

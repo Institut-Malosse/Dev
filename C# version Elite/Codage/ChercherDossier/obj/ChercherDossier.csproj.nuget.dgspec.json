@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj": {}
+    "D:\\Codage\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj": {
+    "D:\\Codage\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
+        "projectUniqueName": "D:\\Codage\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
         "projectName": "ChercherDossier",
-        "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
-        "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\ChercherDossier\\obj\\",
+        "projectPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\ChercherDossier\\ChercherDossier.csproj",
+        "packagesPath": "C:\\Users\\Malosse\\.nuget\\packages\\",
+        "outputPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\ChercherDossier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Malosse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

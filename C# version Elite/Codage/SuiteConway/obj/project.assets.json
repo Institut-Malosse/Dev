@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ahraon\\.nuget\\packages\\": {}
+    "C:\\Users\\Malosse\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
+      "projectUniqueName": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
       "projectName": "SuiteConway",
-      "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
-      "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\obj\\",
+      "projectPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
+      "packagesPath": "C:\\Users\\Malosse\\.nuget\\packages\\",
+      "outputPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Malosse\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj": {}
+    "D:\\Codage\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj": {
+    "D:\\Codage\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
+        "projectUniqueName": "D:\\Codage\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
         "projectName": "WinForm",
-        "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
-        "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\WinForm\\obj\\",
+        "projectPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\WinForm\\WinForm.csproj",
+        "packagesPath": "C:\\Users\\Malosse\\.nuget\\packages\\",
+        "outputPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\WinForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Malosse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

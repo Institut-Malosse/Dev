@@ -1,0 +1,17 @@
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.csproj.AssemblyReference.cache
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.FrmPrincipal.resources
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.csproj.GenerateResource.cache
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.AssemblyInfoInputs.cache
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.AssemblyInfo.cs
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.csproj.CoreCompileInputs.cache
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\MiniExo.exe
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\MiniExo.deps.json
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\MiniExo.runtimeconfig.json
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\MiniExo.dll
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\ref\MiniExo.dll
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\bin\Debug\net6.0-windows\MiniExo.pdb
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.dll
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\ref\MiniExo.dll
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.pdb
+D:\Codage\Dev\C# version Elite\Codage\MiniExo\obj\Debug\net6.0-windows\MiniExo.genruntimeconfig.cache

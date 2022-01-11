@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj": {}
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj": {}
   },
   "projects": {
-    "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj": {
+    "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
+        "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
         "projectName": "SuiteConway",
-        "projectPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
-        "packagesPath": "C:\\Users\\Malosse\\.nuget\\packages\\",
-        "outputPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\SuiteConway\\obj\\",
+        "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\SuiteConway.csproj",
+        "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\SuiteConway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Malosse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

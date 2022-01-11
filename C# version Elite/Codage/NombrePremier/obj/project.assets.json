@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Malosse\\.nuget\\packages\\": {}
+    "C:\\Users\\Ahraon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codage\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
+      "projectUniqueName": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
       "projectName": "NombrePremier",
-      "projectPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
-      "packagesPath": "C:\\Users\\Malosse\\.nuget\\packages\\",
-      "outputPath": "D:\\Codage\\Dev\\C# version Elite\\Codage\\NombrePremier\\obj\\",
+      "projectPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\NombrePremier.csproj",
+      "packagesPath": "C:\\Users\\Ahraon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ahraon\\Documents\\GitHub\\Dev\\C# version Elite\\Codage\\NombrePremier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Malosse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahraon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

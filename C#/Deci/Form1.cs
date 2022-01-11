@@ -29,7 +29,7 @@ namespace Deci
                     }
                     if (diviseurs.Count <= 2) // Si les diviseurs sont uniquement 1, alors le nombre est primaire
                     {
-                        radioButton1.Checked = true; // Changement de l'état du bouton de radio
+                        radioButton1.Checked = true; // Changement de l'état du bouton de radio indiquant si le nombre est primaire.
                     }
                     else
                     {

@@ -40,7 +40,12 @@
       "ProjectGuid": "3d5716cd-8a92-4d8c-ac5d-1fc376a19dfd",
       "DisplayName": "MiniExo",
       "ColorIndex": 7
+    },
+    "0ff613a3-4502-4fc8-bbb0-e8f3ef11146a": {
+      "ProjectGuid": "0ff613a3-4502-4fc8-bbb0-e8f3ef11146a",
+      "DisplayName": "InventaireMail",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

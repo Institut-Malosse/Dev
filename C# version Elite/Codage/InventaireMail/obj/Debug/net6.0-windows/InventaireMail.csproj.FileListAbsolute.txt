@@ -1,0 +1,17 @@
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\InventaireMail.exe
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\InventaireMail.deps.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\InventaireMail.runtimeconfig.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\InventaireMail.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\ref\InventaireMail.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\bin\Debug\net6.0-windows\InventaireMail.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.csproj.AssemblyReference.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.FrmPrincipal.resources
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.csproj.GenerateResource.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.AssemblyInfoInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.AssemblyInfo.cs
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.csproj.CoreCompileInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\ref\InventaireMail.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\InventaireMail\obj\Debug\net6.0-windows\InventaireMail.genruntimeconfig.cache

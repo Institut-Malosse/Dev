@@ -15,3 +15,4 @@ C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-wi
 C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\ref\Sauvegarde.dll
 C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.pdb
 C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.genruntimeconfig.cache
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.Properties.Resources.resources

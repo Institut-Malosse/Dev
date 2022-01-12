@@ -74,11 +74,12 @@ namespace ChercherDossier
             if (fichiers.Length > 0)
             {
                 Array.Sort(fichiers);
-                for (int i = 0; i < fichiers.Length; i++)
+                MessageBox.Show(String.Join("\r\n", fichiers));
+               /* for (int i = 0; i < fichiers.Length; i++)
                 {
                     listeFichiers = listeFichiers + fichiers[i] + "\r\n";
                 }
-                MessageBox.Show(listeFichiers);
+                MessageBox.Show(listeFichiers);*/
             }
             else
             {

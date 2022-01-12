@@ -46,7 +46,7 @@ namespace MiniExo
             {
                 if (p.PrivateMemorySize64 > memoireUsage)
                 {
-                    memoireUsage = p.PrivateMemorySize64;
+                    memoireUsage = p.VirtualMemorySize64;
                     nomProcessus = p.ProcessName;
                 }
             }

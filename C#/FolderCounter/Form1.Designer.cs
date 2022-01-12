@@ -39,6 +39,7 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.button6 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -145,11 +146,22 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "N/A";
             // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(6, 419);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(388, 48);
+            this.button6.TabIndex = 11;
+            this.button6.Text = "Reset";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(404, 444);
+            this.ClientSize = new System.Drawing.Size(404, 470);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
@@ -182,5 +194,6 @@
         private TextBox textBox2;
         private Label label3;
         private Label label4;
+        private Button button6;
     }
 }

@@ -31,7 +31,7 @@ namespace FolderCounter
                 button4.Enabled = true;
                 button5.Enabled = true;
                 label4.Text = chemin;
-                textBox1.Text = "";
+                
             }
             else if (File.Exists(chemin))
             {
@@ -54,7 +54,7 @@ namespace FolderCounter
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string chemin = textBox1.Text;
+            string chemin = label4.Text;
             if (Directory.Exists(chemin))
             {
                 int nbFichiers = Directory.GetFiles(chemin, "*", SearchOption.TopDirectoryOnly).Length;
@@ -72,7 +72,7 @@ namespace FolderCounter
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string chemin = textBox1.Text;
+            string chemin = label4.Text;
             if (Directory.Exists(chemin))
             {
 
@@ -93,7 +93,7 @@ namespace FolderCounter
 
         private void button4_Click(object sender, EventArgs e)
         {
-            string chemin = textBox1.Text;
+            string chemin = label4.Text;
             if (Directory.Exists(chemin))
             {
 
@@ -114,7 +114,7 @@ namespace FolderCounter
 
         private void button5_Click(object sender, EventArgs e)
         {
-            string chemin = textBox1.Text;
+            string chemin = label4.Text;
             string extension = "*." + textBox2.Text;
             if (Directory.Exists(chemin))
             {
@@ -132,6 +132,18 @@ namespace FolderCounter
 
 
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            button2.Enabled = false;
+            button3.Enabled = false;
+            button4.Enabled = false;
+            button5.Enabled = false;
+            label4.Text = "";
+            textBox1.Text = "";
+            textBox2.Text = "";
+
         }
     }
 }

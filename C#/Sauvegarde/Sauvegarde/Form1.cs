@@ -88,5 +88,10 @@ namespace Sauvegarde
                 Environment.SpecialFolder root = folderDlg.RootFolder;
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

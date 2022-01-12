@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
+      "projectUniqueName": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
       "projectName": "FolderCounter",
-      "projectPath": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
+      "projectPath": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
       "packagesPath": "C:\\Users\\krolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\FolderCounter\\obj\\",
+      "outputPath": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\FolderCounter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

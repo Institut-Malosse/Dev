@@ -1,0 +1,17 @@
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\Sauvegarde.exe
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\Sauvegarde.deps.json
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\Sauvegarde.runtimeconfig.json
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\Sauvegarde.dll
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\ref\Sauvegarde.dll
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\bin\Debug\net6.0-windows\Sauvegarde.pdb
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.csproj.AssemblyReference.cache
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.Form1.resources
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.csproj.GenerateResource.cache
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.AssemblyInfoInputs.cache
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.AssemblyInfo.cs
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.csproj.CoreCompileInputs.cache
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.dll
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\ref\Sauvegarde.dll
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.pdb
+C:\Users\krolo\Documents\GitHub\Dev\C#\Sauvegarde\Sauvegarde\obj\Debug\net6.0-windows\Sauvegarde.genruntimeconfig.cache

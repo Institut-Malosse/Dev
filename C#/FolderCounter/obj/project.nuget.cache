@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oiyAXxvFp9APqnre5fWR/z8SOHYL5kkUClUeRAhpslx2g3dxtIwg+WVb24mY+JMSrQIleZsmTl2P8EOMoXIVGA==",
+  "dgSpecHash": "wLCyQQ1ywvRZ5qE05PzSuIt8FE2FlZOj5ibhU9zGJu1DzRbZTtmuVVnME91J0ttE9jQ81E52tI/f5vlqCcLbig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
+  "projectFilePath": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\FolderCounter\\FolderCounter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

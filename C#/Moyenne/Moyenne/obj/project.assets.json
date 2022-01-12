@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\Moyenne\\Moyenne\\Moyenne.csproj",
+      "projectUniqueName": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\Moyenne\\Moyenne\\Moyenne.csproj",
       "projectName": "Moyenne",
-      "projectPath": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\Moyenne\\Moyenne\\Moyenne.csproj",
+      "projectPath": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\Moyenne\\Moyenne\\Moyenne.csproj",
       "packagesPath": "C:\\Users\\krolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krolo\\Documents\\Git\\Dev\\C#\\Moyenne\\Moyenne\\obj\\",
+      "outputPath": "C:\\Users\\krolo\\Documents\\GitHub\\Dev\\C#\\Moyenne\\Moyenne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

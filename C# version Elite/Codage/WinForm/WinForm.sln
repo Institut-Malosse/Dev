@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoyenneNote", "..\MoyenneNo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniExo", "..\MiniExo\MiniExo.csproj", "{3D5716CD-8A92-4D8C-AC5D-1FC376A19DFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventaireMail", "..\InventaireMail\InventaireMail.csproj", "{0FF613A3-4502-4FC8-BBB0-E8F3EF11146A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventaireMail", "..\InventaireMail\InventaireMail.csproj", "{0FF613A3-4502-4FC8-BBB0-E8F3EF11146A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editeurdetext", "..\Editeurdetext\Editeurdetext.csproj", "{AADE688C-F292-429A-A55E-6D1568FDC511}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0FF613A3-4502-4FC8-BBB0-E8F3EF11146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF613A3-4502-4FC8-BBB0-E8F3EF11146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF613A3-4502-4FC8-BBB0-E8F3EF11146A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADE688C-F292-429A-A55E-6D1568FDC511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADE688C-F292-429A-A55E-6D1568FDC511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADE688C-F292-429A-A55E-6D1568FDC511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADE688C-F292-429A-A55E-6D1568FDC511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

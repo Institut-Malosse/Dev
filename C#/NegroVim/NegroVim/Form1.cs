@@ -11,5 +11,18 @@ namespace NegroVim
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog folderDlg = new OpenFileDialog();
+            //folderDlg.ShowNewFolderButton = true;
+            // Show the FolderBrowserDialog.
+            DialogResult result = folderDlg.ShowDialog();
+            if (OpenFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                textBox1.Text = folderDlg.SelectedPath;
+                Environment.SpecialFolder root = folderDlg.RootFolder;
+            }
+        }
     }
 }

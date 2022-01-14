@@ -48,7 +48,6 @@
             this.label1.Size = new System.Drawing.Size(93, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "Fichier de travail";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // TxtChemin
             // 

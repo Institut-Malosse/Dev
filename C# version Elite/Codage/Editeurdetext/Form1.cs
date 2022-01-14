@@ -9,14 +9,11 @@ namespace Editeurdetext
 
         private void BtnParcourir_Click(object sender, EventArgs e)
         {
-            OpenFileDialog fichierdlg = new OpenFileDialog();
-            fichierdlg.ShowDialog = true;
-            // Show the FolderBrowserDialog.
-            DialogResult result = folderDlg.ShowDialog();
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            DialogResult result = openFileDialog.ShowDialog();
             if (result == DialogResult.OK)
             {
-                DestBox1.Text = folderDlg.SelectedPath;
-                Environment.SpecialFolder root = folderDlg.RootFolder;
+                TxtChemin.Text = openFileDialog.FileName;
             }
         }
     }

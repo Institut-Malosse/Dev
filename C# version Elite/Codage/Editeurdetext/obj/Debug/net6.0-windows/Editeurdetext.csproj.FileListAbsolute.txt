@@ -1,0 +1,17 @@
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.csproj.AssemblyReference.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.Form1.resources
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.csproj.GenerateResource.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.AssemblyInfoInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.AssemblyInfo.cs
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.csproj.CoreCompileInputs.cache
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\Editeurdetext.exe
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\Editeurdetext.deps.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\Editeurdetext.runtimeconfig.json
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\Editeurdetext.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\ref\Editeurdetext.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\bin\Debug\net6.0-windows\Editeurdetext.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\ref\Editeurdetext.dll
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.pdb
+C:\Users\Ahraon\Documents\GitHub\Dev\C# version Elite\Codage\Editeurdetext\obj\Debug\net6.0-windows\Editeurdetext.genruntimeconfig.cache

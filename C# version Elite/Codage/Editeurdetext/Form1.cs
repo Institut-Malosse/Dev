@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace Editeurdetext
 {
     public partial class Form1 : Form
@@ -15,6 +17,16 @@ namespace Editeurdetext
             {
                 TxtChemin.Text = openFileDialog.FileName;
             }
+        }
+
+        private void BtnCharger_Click(object sender, EventArgs e)
+        {
+            TxtContenu.Text = File.ReadAllText(TxtChemin.Text, Encoding.ASCII);
+        }
+
+        private void BtnEnregistrer_Click(object sender, EventArgs e)
+        {
+            File.WriteAllText(path, createText, Encoding.UTF8);
         }
     }
 }

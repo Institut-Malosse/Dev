@@ -33,7 +33,7 @@
             this.BtnParcourir = new System.Windows.Forms.Button();
             this.BtnCharger = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TxtContenu = new System.Windows.Forms.TextBox();
             this.BtnEnregistrer = new System.Windows.Forms.Button();
             this.BtnSauvegarder = new System.Windows.Forms.Button();
             this.BtnSupprimer = new System.Windows.Forms.Button();
@@ -74,6 +74,7 @@
             this.BtnCharger.TabIndex = 3;
             this.BtnCharger.Text = "Charger le contenu du fichier";
             this.BtnCharger.UseVisualStyleBackColor = true;
+            this.BtnCharger.Click += new System.EventHandler(this.BtnCharger_Click);
             // 
             // label2
             // 
@@ -84,14 +85,14 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Contenu :";
             // 
-            // textBox1
+            // TxtContenu
             // 
-            this.textBox1.Location = new System.Drawing.Point(39, 189);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(711, 268);
-            this.textBox1.TabIndex = 5;
+            this.TxtContenu.Location = new System.Drawing.Point(39, 189);
+            this.TxtContenu.Multiline = true;
+            this.TxtContenu.Name = "TxtContenu";
+            this.TxtContenu.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.TxtContenu.Size = new System.Drawing.Size(711, 268);
+            this.TxtContenu.TabIndex = 5;
             // 
             // BtnEnregistrer
             // 
@@ -101,6 +102,7 @@
             this.BtnEnregistrer.TabIndex = 6;
             this.BtnEnregistrer.Text = "Enregistrer le contenu";
             this.BtnEnregistrer.UseVisualStyleBackColor = true;
+            this.BtnEnregistrer.Click += new System.EventHandler(this.BtnEnregistrer_Click);
             // 
             // BtnSauvegarder
             // 
@@ -138,7 +140,7 @@
             this.Controls.Add(this.BtnSupprimer);
             this.Controls.Add(this.BtnSauvegarder);
             this.Controls.Add(this.BtnEnregistrer);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.TxtContenu);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.BtnCharger);
             this.Controls.Add(this.BtnParcourir);
@@ -158,7 +160,7 @@
         private Button BtnParcourir;
         private Button BtnCharger;
         private Label label2;
-        private TextBox textBox1;
+        private TextBox TxtContenu;
         private Button BtnEnregistrer;
         private Button BtnSauvegarder;
         private Button BtnSupprimer;
